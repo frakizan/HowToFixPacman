@@ -7,4 +7,4 @@ sudo rm -R /var/lib/pacman/sync
 sudo pacman-key --populate archlinux
 
 
-echo "Pacman fixed succesfully."
+echo "Pacman fixed successfully."
